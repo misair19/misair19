@@ -1,16 +1,16 @@
-## Hi there 👋
+![my_banner](banner_da.png)
 
-<!--
-**misair19/misair19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there!👋
 
-Here are some ideas to get you started:
+- 🎓 I’m Monica, a recent Data Analyst bootcamp graduate with a background as a Chemical Engineer.
+- 🌱 I’m I combine my engineering experience in process optimization, quality management, and data-driven decision to transform complex data into actionable insights.
+- 🛠️ My skill set includes: Python, SQL, and Tableau and techniques as EDA and A/B testing.
+- 🚀 I’m passionate about Business Intelligence and using data to improve efficiency and strategy. 
+- 🌍 I thrive in cross-functional teams, always seeking opportunities to drive meaningful impact and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me:
+
+📧 **Email:** [misabeli619@gmail.com](mailto:misabeli619@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/monica-i-ibarra](https://www.linkedin.com/in/monica-i-ibarra)  
+📍 **Location:** Colombia | Open to Remote Work
