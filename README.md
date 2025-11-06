@@ -1,4 +1,4 @@
-![my_banner](banner_da.png)
+![my_banner](banner.png)
 
 ## Hi there!👋
 
