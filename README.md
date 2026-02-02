@@ -3,7 +3,7 @@
 ## Hi there!👋
 
 - 🎓 I’m Monica, a recent Data Analyst bootcamp graduate with a background as a Chemical Engineer.
-- 🌱 I’m I combine my engineering experience in process optimization, quality management, and data-driven decision to transform complex data into actionable insights.
+- 🌱 Professional with a solid background in engineering and business analysis, focused on Data Analytics and BI.
 - 🛠️ My skill set includes: Python, SQL, and Tableau and techniques as EDA and A/B testing.
 - 🚀 I’m passionate about Business Intelligence and using data to improve efficiency and strategy. 
 - 🌍 I thrive in cross-functional teams, always seeking opportunities to drive meaningful impact and continuous improvement.
